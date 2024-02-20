@@ -27,9 +27,9 @@ print('Married: ', is_married)
 print('Skills: ', skills)
 print('Person information: ', person_info)
 
-# Declaring multiple variables in one line
+# Declaracion de variables multiples en una sola linea
 
-first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
+first_name, last_name, country, age, is_married = 'Sebastian', 'Solano', 'Colombia', 28, False
 
 print(first_name, last_name, country, age, is_married)
 print('First name:', first_name)
@@ -37,3 +37,11 @@ print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
+
+# Inputs y su uso
+
+name = input('¿Cuál es tu nombre? ')
+age = input('¿Cuántos años tienes? ')
+
+print(name)
+print(age)

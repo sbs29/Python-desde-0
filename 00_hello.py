@@ -11,7 +11,7 @@ print(3 ** 2)  # exponential(**)
 print(3 % 2)   # modulus(%)
 print(3 // 2)  # Floor division operator(//)
 
-# Checking data types
+# Confirmar el tipo de dato
 
 print(type(10))                  # Int
 print(type(3.14))                # Float
