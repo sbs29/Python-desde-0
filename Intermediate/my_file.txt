@@ -1,0 +1,6 @@
+Mi nombre es Sebastian
+y mi apellido es Solano,
+mi edad es de 28 Anos
+y mi lenguaje favorito es Python
+mi apodo es sbs
+pero siempre pongo sbs29
